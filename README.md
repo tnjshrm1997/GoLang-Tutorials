@@ -15,7 +15,7 @@ GoLang brings up both of these functionalities together. It is a compiled langua
 <h3>Introduction</h3>
 
 Now, let’s discuss about basic introduction to GoLang. Most of the things we can google about this language. So, I don’t have many things to write on its introduction. But I’d really want to write about the specialty of GoLang.<br>
-  1.GoLang is a statically typed compiled language. <br>
+  1. GoLang is a statically typed compiled language. <br>
   2. Built-in garbage collector and memory safety. <br>
   3. It has UTF-8 encoding by default. <br>
   4. It has built-in concurrency model with the help of GoRoutines.
