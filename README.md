@@ -1,6 +1,6 @@
 # GoLang-Tutorials
 
-# Overview
+<h3>Overview</h3>
 
 Before I start explaining and talking about GoLang. We should know why we are doing this and why this particularly this language? So, Why GoLang? I’ll highlight a few of its benefits and attach link of 2-3 articles, where you can go and dig a bit deep into this question why GoLang?
 
@@ -12,17 +12,17 @@ It removes one step in the execution cycle which improves the system performance
 GoLang brings up both of these functionalities together. It is a compiled language like C/C++. So, it’s performance is almost similar to C/C++ and it also uses garbage collection and removal of objects. 
 
   2. GoLang is for large, distributed and highly scalable servers. 
-
-# Introduction
+<hr>
+<h3>Introduction</h3>
 
 Now, let’s discuss about basic introduction to GoLang. Most of the things we can google about this language. So, I don’t have many things to write on its introduction. But I’d really want to write about the specialty of GoLang.
 GoLang is a statically typed compiled language. 
 Built-in garbage collector and memory safety. 
 It has UTF-8 encoding by default. 
 It has built-in concurrency model with the help of GoRoutines.
+<hr>
 
-
-References: 
+<hr>References:</h4> 
 https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65
 https://medium.com/@Sandra_Parker/why-golang-is-the-future-part-1-ed7dd4f419d
 https://en.wikipedia.org/wiki/Distributed_computing
