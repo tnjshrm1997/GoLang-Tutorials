@@ -22,7 +22,7 @@ It has UTF-8 encoding by default.
 It has built-in concurrency model with the help of GoRoutines.
 <hr>
 
-<hr>References:</h4> 
+<h4>References:</h4> 
 https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65
 https://medium.com/@Sandra_Parker/why-golang-is-the-future-part-1-ed7dd4f419d
 https://en.wikipedia.org/wiki/Distributed_computing
